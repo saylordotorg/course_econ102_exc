@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102-EXC: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade. ECON102-EXC is aligned with a challenge exam proctored by Excelsior College, a private, nonprofit institution with a credit-by-exam program that enables students to earn college level credit in select subject areas by passing proficiency examinations."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: International Trade** <span id="7"></span> 
 *Trade among countries serves many functions aside from the exchange of
 goods and services at a global level. For instance, trade facilitates

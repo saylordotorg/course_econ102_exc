@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102-EXC: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade. ECON102-EXC is aligned with a challenge exam proctored by Excelsior College, a private, nonprofit institution with a credit-by-exam program that enables students to earn college level credit in select subject areas by passing proficiency examinations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Unemployment and Inflation** <span id="3"></span> 
 *Most individuals probably understand the economic concepts of
 unemployment and inflation. Unemployment reflects the number of people

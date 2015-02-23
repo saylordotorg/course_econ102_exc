@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102-EXC: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade. ECON102-EXC is aligned with a challenge exam proctored by Excelsior College, a private, nonprofit institution with a credit-by-exam program that enables students to earn college level credit in select subject areas by passing proficiency examinations."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Fiscal Policy** <span id="5"></span> 
 *Using various policies and tools, a government attempts to steer the
 macroeconomy toward three main goals: full employment, price stability,
